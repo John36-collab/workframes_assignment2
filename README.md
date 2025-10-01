@@ -25,6 +25,8 @@ Preview and download filtered metadata in CSV
 
 ---
 
+URL : [http://10.250.97.78:8507] 
+
 📂 Project Structure
 
 workframes_assignment2/
