@@ -21,9 +21,7 @@ Rank top journals with bar charts
 
 Generate word clouds from publication titles
 
-Preview and download filtered metadata in CSV format
-
-LIVE URL: [http://10.250.97.78:8507] 
+Preview and download filtered metadata in CSV 
 
 ---
 
